@@ -14,3 +14,4 @@ git clone https://github.com/nunomourinho/openEdXAutoInstall.git
 cd openEdXAutoInstall
 bash install.sh
 ```
+Now go drink a coffee, go lunch, go dinner. It will take really, really a loooong time :)
