@@ -9,5 +9,7 @@ apt update
 apt upgrade -y
 apt install git screen -f -y
 reboot
-git clone 
+git clone https://github.com/nunomourinho/openEdXAutoInstall.git
+cd openEdXAutoInstall
+bash install.sh
 ```
